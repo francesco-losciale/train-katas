@@ -1,3 +1,6 @@
 [submodule "supermarket-pricing-java"]
 	path = supermarket-pricing-java
 	url = https://github.com/francesco-losciale/supermarket-pricing-java.git
+[submodule "rover-java"]
+	path = rover-java
+	url = https://github.com/francesco-losciale/rover-java.git
