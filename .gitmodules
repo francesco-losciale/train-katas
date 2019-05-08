@@ -7,3 +7,12 @@
 [submodule "maze-kata-java"]
 	path = maze-kata-java
 	url = https://github.com/francesco-losciale/maze-kata-java.git
+[submodule "maven-fizzbuzz-java"]
+	path = maven-fizzbuzz-java
+	url = https://github.com/francesco-losciale/maven-fizzbuzz-java.git
+[submodule "book-shop-kata"]
+	path = book-shop-kata
+	url = https://github.com/francesco-losciale/book-shop-kata.git
+[submodule "bankkata-frank-2"]
+	path = bankkata-frank-2
+	url = https://github.com/francesco-losciale/bankkata-frank-2.git
