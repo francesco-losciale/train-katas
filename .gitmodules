@@ -16,3 +16,6 @@
 [submodule "bankkata-frank-2"]
 	path = bankkata-frank-2
 	url = https://github.com/francesco-losciale/bankkata-frank-2.git
+[submodule "roman-numerals-java"]
+	path = roman-numerals-java
+	url = https://github.com/francesco-losciale/roman-numerals-java.git
