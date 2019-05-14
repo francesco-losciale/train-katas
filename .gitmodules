@@ -19,3 +19,6 @@
 [submodule "roman-numerals-java"]
 	path = roman-numerals-java
 	url = https://github.com/francesco-losciale/roman-numerals-java.git
+[submodule "GildedRose-Refactoring-Kata"]
+	path = GildedRose-Refactoring-Kata
+	url = https://github.com/francesco-losciale/GildedRose-Refactoring-Kata.git
